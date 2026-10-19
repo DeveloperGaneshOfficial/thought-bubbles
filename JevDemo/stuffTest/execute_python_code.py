@@ -1,0 +1,1 @@
+exec("def fibonacci(n):\n    if n <= 0:\n        return []\n    elif n == 1:\n        return [0]\n    sequence = [0, 1]\n    while len(sequence) < n:\n        sequence.append(sequence[-1] + sequence[-2])\n    return sequence\n\nif __name__ == '__main__': 10 terms\n    terms = 10\n    print(f'Fibonacci series ({terms} terms): {fibonacci(terms)}'")

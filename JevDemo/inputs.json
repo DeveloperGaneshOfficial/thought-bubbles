@@ -1,0 +1,14 @@
+{
+  "input_queries": [
+    "What were our total sales by region last quarter?",
+    "Write a Python function that removes duplicates from a list while preserving order.",
+    "Why did our sales performance drop in March compared to February, and what should we do about it?",
+    "What is the latest version of Python released and what are its new features?",
+    "Run this code and tell me the output: print(sum(i**2 for i in range(1, 101)))",
+    "Explain how photosynthesis works in simple steps.",
+    "Pull the top 10 customers by revenue from the database and analyze what they have in common.",
+    "My script throws 'KeyError: id' when I loop over a dict. Debug it and verify the fix by running it.",
+    "Search the web for current news about electric vehicle sales and compare it with our own EV product sales.",
+    "Hi, can you help me figure out how to reset my account password step by step?"
+  ]
+}
